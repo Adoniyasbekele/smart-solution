@@ -1,0 +1,1 @@
+# Smart Solution site\nStatic site. Deploy: drag this folder onto vercel.com (Add New > Project) or run `vercel` inside it.\nAccent color: change `--orange` in the `<style>` of index.html and in site.css.\n
